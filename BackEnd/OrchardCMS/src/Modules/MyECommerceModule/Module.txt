@@ -1,0 +1,6 @@
+Name: MyECommerceModule
+Author: Your Name
+Website: https://yourwebsite.com
+Version: 1.0.0
+Description: A module to handle e-commerce features like orders.
+Category: Commerce
