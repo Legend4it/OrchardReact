@@ -396,3 +396,5 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/BackEnd/OrchardCMS/src/Orchard.Cms.Web/wwwroot/Default/is-cache
+/BackEnd/OrchardCMS/src/Orchard.Cms.Web/wwwroot/Default/ms-cache
